@@ -20,12 +20,12 @@
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="shan.com.shan_goapps.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_developer"
-        tools:layout="@layout/fragment_developer" />
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/nav_developer"
         android:name="shan.com.shan_goapps.ui.developer.DeveloperFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:label="@string/menu_developer"
+        tools:layout="@layout/fragment_developer" />
 </navigation>
